@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "devexpress-diagram": "2.1.65",
+    "devexpress-gantt": "4.1.37",
+    "devextreme": "22.2.3",
+    "devextreme-quill": "1.5.18",
+    "devextreme-react": "22.2.3",
+    "es6-object-assign": "1.1.0",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "7.4.11",
+    "inferno-compat": "7.4.11",
+    "inferno-create-class": "7.4.11",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "7.4.11",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.0",
+    "prettier": "2.7.1",
+    "prop-types": "15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "2.6.4"
+  },
+  "description": "The HtmlEditor component is a client-side WYSIWYG text editor. The editor allows users to format text and integrate media elements into documents. The result can be exported to HTML or Markdown.\nUsers can edit and customize content using the toolbar that can contain predefined and custom controls. To specify the available controls, use the items array. In this demo, the toolbar contains predefined controls.\nYou can use the toolbar.multiline property to arrange the toolbar controls into multiple rows.\nUsers can resize media files when the mediaResizing is enabled. Currently, only images are supported.\nTo get started with the DevExtreme HtmlEditor component, refer to the following tutorial for step-by-step instructions: Getting Started with HtmlEditor.\n",
+  "name": "Overview - DevExtreme Html Editor"
+}
